@@ -4,7 +4,7 @@
 
 🤓 Welcome to my GitHub profile! 
 
-I’m passionate about building scalable, efficient, and user-friendly software solutions. With expertise in Fullstack development, including C#, .NET, React, and SQLServer, I enjoy working on exciting projects that make a meaningful impact. I thrive in Agile environments, leveraging strong teamwork, effective communication, and leadership skills to deliver exceptional results.
+I’m passionate about building scalable, efficient, secure, and user-friendly software solutions. With expertise in Fullstack development, including C#, and React, I enjoy working on exciting projects that make a meaningful impact. I thrive in Agile environments, leveraging strong teamwork, effective communication, and leadership skills to deliver exceptional results.
 
 
 🌱 I’m currently learning **Java** and **Python programming for AI/ML**.  
