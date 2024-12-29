@@ -4,7 +4,7 @@
 
 🤓 Welcome to my GitHub profile! 
 
-I’m passionate about building scalable, efficient, secure, and user-friendly software solutions. With expertise in Fullstack development, including C#, and React, I enjoy working on exciting projects that make a meaningful impact. I thrive in Agile environments, leveraging strong teamwork, effective communication, and leadership skills to deliver exceptional results. I also have expertise in Python Programming for Data Science and building of machine learning models. I have also cofounded a tech startup, Paradigm Nest, where I lead projects that leverage data science and machine learning to deliver innovative solutions for businesses and academia.
+I’m passionate about building scalable, efficient, secure, and user-friendly software solutions. With expertise in Fullstack development, including C#, and React, I enjoy working on exciting projects that make a meaningful impact. I thrive in Agile environments, leveraging strong teamwork, effective communication, and leadership skills to deliver exceptional results. I also have expertise in Python Programming for data science and building of machine learning models. I cofounded a tech startup, Paradigm Nest, where I lead projects that leverage data science and machine learning to deliver innovative solutions for businesses and academia.
 
 
 🌱 I’m currently learning **Java** and **AI/ML for software solutions**.  
