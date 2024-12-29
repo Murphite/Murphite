@@ -35,5 +35,5 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unity](https://img.shields.io/badge/Python-%2361DAFB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%33602AFB.svg?style=for-the-badge&logo=python&logoColor=white)
 
