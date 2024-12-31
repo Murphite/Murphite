@@ -37,3 +37,17 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%33602AFB.svg?style=for-the-badge&logo=python&logoColor=white)
 
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murphite&show_icons=true&theme=radical)
+
+## 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murphite&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Murphite&theme=radical)
+
+## 🌱 Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Murphite&theme=radical)
+
+
