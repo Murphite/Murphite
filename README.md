@@ -18,9 +18,9 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 📄 **Know about my experiences**: [Here is my CV](https://drive.google.com/file/d/1Jpq55bspqP6Iz7Jm30xIoGN96NDLYqaW/view?usp=sharing).  
 
 ## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/murphy-ogbeide/)  
-- [Twitter](https://twitter.com/_ogmurphy)  
-- [Instagram](https://instagram.com/_ogmurphy)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murphy-ogbeide/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ogmurphy)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ogmurphy)
 
 ## 🛠️ Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -48,8 +48,8 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Murphite&theme=radical)
 
 ## 🌱 Contribution Graph
-![Contribution Graph](https://raw.githubusercontent.com/Murphite/Murphite/main/profile-summary-card-output/default/0-profile-details.svg)
-![GitHub Contributions](https://github.com/users/Murphite/contributions)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Murphite&theme=radical)
+
 
 
 
