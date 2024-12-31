@@ -48,7 +48,7 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Murphite&theme=radical)
 
 ## 🌱 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Murphite&theme=radical)
+![Contribution Graph](https://raw.githubusercontent.com/Murphite/Murphite/main/profile-summary-card-output/default/0-profile-details.svg)
 
 
 
