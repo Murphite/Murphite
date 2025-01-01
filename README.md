@@ -8,12 +8,6 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Murphite&color=blue)
 
-## 🚀 Achievements
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-12-brightgreen)
-![Issues](https://img.shields.io/badge/Issues-5-blue)
-![Stars](https://img.shields.io/github/stars/Murphite?style=for-the-badge&color=yellow)
-![Followers](https://img.shields.io/github/followers/Murphite?style=for-the-badge&color=blue)
-
 🌱 I’m currently learning **Java** and **AI/ML for secure software solutions**.  
 
 👨‍💻 All of my projects are available at [my portfolio website](https://murphyogbeide.netlify.app).  
@@ -43,6 +37,12 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%33602AFB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+## 🚀 Achievements
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-12-brightgreen)
+![Issues](https://img.shields.io/badge/Issues-5-blue)
+![Stars](https://img.shields.io/github/stars/Murphite?style=for-the-badge&color=yellow)
+![Followers](https://img.shields.io/github/followers/Murphite?style=for-the-badge&color=blue)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murphite&show_icons=true&theme=radical)
