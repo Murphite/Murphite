@@ -1,4 +1,4 @@
-
+<img width="1074" alt="image" src="https://github.com/user-attachments/assets/3869f352-8502-4533-8659-46ceda9b36ee" />
 # 👋 Hi, I'm Murphy Ogbeide!
 
 
@@ -52,6 +52,9 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Murphite&theme=radical)
+
+
+
 
 
 
