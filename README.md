@@ -17,7 +17,7 @@ I’m passionate about building scalable, efficient, secure, and user-friendly s
 
 📫 **How to reach me**: ogbeidemurphy@gmail.com  
 
-📄 **Know about my experiences**: [Here is my CV](https://drive.google.com/file/d/1Jpq55bspqP6Iz7Jm30xIoGN96NDLYqaW/view?usp=sharing).  
+📄 **Know about my experiences**: [Here is my CV](https://drive.google.com/file/d/199o_O07lwWE6k7DEYWG24cbiEQ_cBAMD/view?usp=sharing).  
 
 ## 🌐 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murphy-ogbeide/)
