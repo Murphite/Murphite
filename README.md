@@ -1,4 +1,5 @@
-<img width="978" alt="image" src="https://github.com/user-attachments/assets/9b3e8e09-7ad4-439c-8e83-ad81087731d9" />
+<img width="978" alt="image" src="<img width="1593" height="926" alt="image" src="https://github.com/user-attachments/assets/c980c099-1600-4d6d-9c28-61283754942f" />
+" />
 
 # 👋 Hi, I'm Murphy Ogbeide!
 
